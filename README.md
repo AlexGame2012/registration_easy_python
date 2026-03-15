@@ -7,8 +7,6 @@
 ![Stars](https://img.shields.io/badge/⭐%20Звезды-0-lightgrey)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
-![Version](https://img.shields.io/badge/версия-1.0.0-blue)
-
 ## 🚀 Запуск программы
 
 Для запуска программы убедитесь, что на вашем компьютере установлен Python версии 3.6 или выше.
